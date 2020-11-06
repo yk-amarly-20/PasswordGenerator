@@ -3,5 +3,5 @@
 Rustの練習がてら作ったやつです。   
 
 # TODO
-①to regulate the number of each kinds of words (ex. upper case 1...)
+①to regulate the number of each kinds of words (ex. upper case 1...)  
 ②manage passwords
